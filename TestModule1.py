@@ -8,3 +8,4 @@ class TestAdd(unittest.TestCase):
         self.assertEqual(md1(1,1),2)
         self.assertEqual(md1(1,2),4)
      
+unittest.main()
